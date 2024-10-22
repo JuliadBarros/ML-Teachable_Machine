@@ -6,11 +6,21 @@ O objetivo do código é identificar cada gesto usando o modelo de IA treinado e
 - Para "Like" o fundo verde com um texto escrito "Positivo";
 - Para "Dislike" o fundo vermelho com o texto escrito "Negativo";
 - Quando não detectar nenhum gesto, o padrão é o "Background" que deixa o fundo branco com o texto escrito "Neutro".
+<br>
+ 
+<div  align="center">
+  
+  ## 🎬 Demostração do modelo
+  
+  https://github.com/user-attachments/assets/2732c140-a66c-4fcb-afd5-4523d2c33009
+  
+</div>
 
+<br>
 
 ## 🛠 Bibliotecas utilizadas:
 - OpenCV.
-- Tensorflow.
+- Keras/Tensorflow.
 - NumPy.
 
 ## :pencil2: Autores 
